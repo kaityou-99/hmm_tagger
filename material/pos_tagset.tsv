@@ -1,0 +1,97 @@
+分類	例	Claws c5	Brown	Penn
+形容詞	happy,bad	AJ0	JJ	JJ
+形容詞，序数	sixth,72nd,last	ORD	OD	JJ
+形容詞，比較級	happier,worse	AJC	JJR	JJR
+形容詞，最上級	happiest,worst	AJS	JJT	JJS
+形容詞，最上級，意味的	chief,top	AJO	JJS	JJ
+形容調，基数	3,fifteen	CRD	CD	CD
+形容詞，基数，one	one	PNI	CD	CD
+副詞	often,particularly	AVO	RB	RB
+副詞，否定	not,n't	XX0	*	RB
+副詞，比較級	faster	AVO	RBR	RBR
+副詞，最上級	fastest	AVO	RBT	RBS
+副詞，不変化詞	up,off,out	AVP	RP	RP
+副詞，疑問	when,how,why	AVQ	WRB	WRB
+副詞，程度＆疑問	how,however	AVQ	WQL	WRB
+副詞，程度	very,so,too	AVO	QL	RB
+副詞，程度，後置	enough,indeed	AVO	QLP	RB
+副詞，名詞的	here,there,now	AVO	RN	RB
+接続詞，等位	and,or	CJC	CC	CC
+接続詞，従属	although,when	CJS	CS	IN
+接続詞，補文標識that	that	CJT	CS	IN
+限定詞	this,each,another	DTO	DT	DT
+限定詞，代名詞	any,some	DTO	DTI	DT
+限定詞，代名詞，複数	these,those	DTO	DTS	DT
+限定詞，前置限定調	quite	DTO	ABL	PDT
+限定詞，前置限量詞	all,half	DTO	ABN	PDT
+限定詞，代名詞or二重接続	both	DTO	ABX	DT(CC)
+限定詞，代名調or二重接続	either,neither	DTO	DTX	DT(CC)
+限定詞，冠詞	the,a,an	ATO	AT	DT
+限定詞，後続辞	many,same	DTO	AP	JJ
+限定詞，所有格	their,your	DPS	PP$	PRP$
+限定詞，所有格，第二	mine,yours	DPS	PP$$	PRP
+限定詞，疑問	which,whatever	DTQ	WDT	WDT
+限定調，所有格＆疑問	whose	DTQ	WP$	WP$
+名調	aircraft,data	NNO	NN	NN
+名詞，単数	woman,book	NNl	NN	NN
+名詞，複数	women,books	NN2	NNS	NNS
+名詞，固有，単数	London,Michael	NPO	NP	NNP
+名詞，固有，複数	Australians,Methodists	NP0	NPS	NNPS
+名詞，副詞的	tomorrow,home	NN0	NR	NN
+名詞，副詞的，複数	Sundays,weekdays	NN2	NRS	NNS
+代名詞，名詞的（不定）	none,everything,one	PNI	PN	NN
+代名詞，人称，主語	you,we	PNP	PPSS	PRP
+代名詞，人称，主語，三人称単数	she,he,it	PNP	PPS	PRP
+代名詞，人称，目的語	you,them,me	PNP	PPO	PRP
+代名詞，再帰	herself,myself	PNX	PPL	PRP
+代名詞，再帰，複数	themselves,ourselves	PNX	PPLS	PRP
+代名詞，疑問，主語	who,whoever	PNQ	WPS	WP
+代名詞，疑問，目的語	who,whoever	PNQ	WPO	WP
+代名詞，存在	there	EX0	EX	EX
+動詞，原形現在形（不定形でないもの）	take,live	VVB	VB	VBP
+動詞，不定形	take,live	VVI	VB	VB
+動詞，過去時制	took,lived	VVD	VBD	VBD
+動詞，現在現在分詞	taking,living	VVG	VBG	VBG
+動詞，過去/過去分詞	taken,lived	VVN	VBN	VBN
+動詞，現在三人称単数-s形	takes,lives	vvz	VBZ	VBZ
+動詞，助動調do，原形	do	VDB	DO	VBP
+動詞，助動詞do，不定形	do	VDB	DO	VB
+動調，助動詞do，過去	did	VDD	DOD	VBD
+動詞，助動詞do，現在分詞	doing	VDG	VBG	VBG
+動詞，助動詞do，過去分詞	done	VDN	VBN	VBN
+動調，助動詞do，現在三人称単数	does	VDZ	DOZ	VBZ
+動調，助動詞have，原形	have	VHB	HV	VBP
+動調，助動詞have，不定形	have	VHI	HV	VB
+動詞，助動詞have，過去	had	VHD	HVD	VBD
+動調，助動詞have，現在分詞	having	VHG	HVG	VBG
+動調，助動詞have，過去分詞	had	VHN	HVN	VBN
+動調，助動詞have，現在三人称単数	has	VHZ	HVZ	VBZ
+動詞，助動詞be，不定形	be	VBI	BE	VB
+動詞，助動調be，過去	were	VBD	BED	VBD
+動調，助動調be，過去，三人称単数	was	VBD	BEDZ	VBD
+動詞，助動調be，現在分詞	being	VBG	BEG	VBG
+動詞，助動詞be，過去分詞	been	VBN	BEN	VBN
+動調，助動詞be，現在，三人称単数	is,'s	VBZ	BEZ	VBZ
+動詞，助動詞be，現在，一人称単数	am,'m	VBB	BEM	VBP
+動調，助動詞be，現在	are,'re	VBB	BER	VBP
+動調，法助動調	can,could,'ll	VMO	MD	MD
+不定詞標識	to	TOO	TO	TO
+前置詞，to	to	PRP	IN	TO
+前置詞	for,above	PRP	IN	IN
+前置詞，of	of	PRF	IN	IN
+所有	s,'	POS	$	POS
+間投詞（orその他の独立詞）	oh,yes,mmm	ITJ	UH	UH
+句読点，文末記号	.!?	PUN		
+句読点，セミコロン		PUN		
+句読点，コロンor省略記号		PUN		
+句読点，カンマ		PUN		
+句読点，ダッシュ		PUN		
+句読点，ドル記号	$	PUN	not	$
+句読点，左括弧	（［｛	PUL	(	(
+句読点，右括弧	）］｝	PUR	)	)
+句読点，引用符，左		PUQ	not	"
+句読点，引用符，右		PUQ	not	"
+外国語（英語辞書にないもの）		UNC	(FW-)	FW
+記号	[fj],*		not	SYM
+記号，アルフアベット	B,c,d	ZZ0		
+記号，箇条書き記号	A,A.,First			LS
